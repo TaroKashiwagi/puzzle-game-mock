@@ -50,7 +50,7 @@ Material:
     - _UseUIAlphaClip: 1
     m_Colors:
     - _Color: {r: 0, g: 0, b: 1, a: 1}
-    - _Emission: {r: 776.04706, g: 0, b: 0, a: 1}
+    - _Emission: {r: 6.498019, g: 0, b: 0, a: 1}
     - _EmissionColor: {r: 1367.1202, g: 0, b: 0, a: 1}
     - _Flip: {r: 1, g: 1, b: 1, a: 1}
     - _MainColor: {r: 1, g: 1, b: 1, a: 1}
